@@ -1,5 +1,7 @@
 # Capracon Clicker
 
+![Clicker demo](client/demo.png)
+
 ## Run server
 `nodejs sensors.js`
 
